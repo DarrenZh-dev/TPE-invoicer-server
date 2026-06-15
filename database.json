@@ -1,0 +1,1093 @@
+{
+  "nextInvoiceNumber": 15788,
+  "clients": [
+    {
+      "clientId": "a369b132-e5d2-4322-bbad-104c0fa7514b",
+      "companyName": "Tester",
+      "contactName": "qweqweqweqweq",
+      "email": "test@gmail.com",
+      "phone": "1231321313",
+      "createdAt": "2026-06-01T06:03:12.375Z"
+    },
+    {
+      "clientId": "0bf44fc9-6147-4953-a724-3946d083df6b",
+      "companyName": "tester 2",
+      "contactName": "tom",
+      "email": "345",
+      "phone": "35467663",
+      "createdAt": "2026-06-03T07:06:28.238Z"
+    },
+    {
+      "clientId": "a55057b7-1b45-4fa4-bed0-ba2bc54bc725",
+      "companyName": "sghafshdfgsg",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:08:49.622Z"
+    },
+    {
+      "clientId": "197d29e0-d66a-4105-8ad5-0f66c475c39c",
+      "companyName": "dxghcvjjj",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:11:32.076Z"
+    },
+    {
+      "clientId": "bec527e9-873e-4d07-89bf-6869eba2c17f",
+      "companyName": "retyutrtu",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:15:34.769Z"
+    },
+    {
+      "clientId": "0a064987-f6fd-4099-a61a-51ff14a0940f",
+      "companyName": "1",
+      "contactName": "1",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:28:39.709Z"
+    },
+    {
+      "clientId": "a11a3add-888c-4ccd-8aa9-f55fd0f66c0a",
+      "companyName": "2",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:29:54.752Z"
+    },
+    {
+      "clientId": "3a0cb8af-0162-4913-9920-0702d32e9091",
+      "companyName": "4",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:35:19.457Z"
+    },
+    {
+      "clientId": "0140838a-9510-4b76-adae-72ededcc3a68",
+      "companyName": "5",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:37:59.944Z"
+    },
+    {
+      "clientId": "1098a003-f856-4f2f-99f0-1376c024eb0e",
+      "companyName": "6",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:39:32.990Z"
+    },
+    {
+      "clientId": "d48d4d29-8838-43f6-9217-61a1e1729090",
+      "companyName": "7",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:40:16.919Z"
+    },
+    {
+      "clientId": "ec324939-8bac-4a9e-8712-14a42a962021",
+      "companyName": "8",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:48:15.882Z"
+    },
+    {
+      "clientId": "11515b92-bb8a-499e-963b-9942e8354859",
+      "companyName": "9",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:51:35.675Z"
+    },
+    {
+      "clientId": "8c3febf8-aa51-4286-83d8-4e9024656190",
+      "companyName": "10",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:56:22.293Z"
+    },
+    {
+      "clientId": "04d4cbbe-b9f9-4d44-9a4d-e17fdcf53bc3",
+      "companyName": "11",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T07:58:18.486Z"
+    },
+    {
+      "clientId": "c8e38bfb-ab56-46c0-b807-f0196b2337f0",
+      "companyName": "12",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-03T08:05:32.970Z"
+    },
+    {
+      "clientId": "7e8b7454-01b2-4ae1-ba94-58afd55caf70",
+      "companyName": "tester - new invoice",
+      "contactName": "rester",
+      "email": "sdfDF",
+      "phone": "SDFsDfs",
+      "createdAt": "2026-06-04T00:13:26.306Z"
+    },
+    {
+      "clientId": "51361e04-b723-4e32-a7eb-9d539acc5147",
+      "companyName": "tester ver 3",
+      "contactName": "tester man",
+      "email": "fgdfgwdfh.com",
+      "phone": "1231231233",
+      "createdAt": "2026-06-06T23:46:12.190Z"
+    },
+    {
+      "clientId": "11acc0b5-cc93-42e1-a24a-4dee6735fc8b",
+      "companyName": "tester v4",
+      "contactName": "adsfgffD",
+      "email": "ADSGGSDAFSSAFDGGSDF",
+      "phone": "GFADFGFSGFDGAS",
+      "createdAt": "2026-06-09T20:33:00.758Z"
+    },
+    {
+      "clientId": "9337c3ed-c53f-4d04-96f0-ff17ab9025cc",
+      "companyName": "sdtrsdggsafhashafhahahashasfdhad",
+      "contactName": "sdsgdhdf",
+      "email": "gafdhgdsafhdgsad",
+      "phone": "sdgsfdhgsaf",
+      "createdAt": "2026-06-09T20:35:37.935Z"
+    },
+    {
+      "clientId": "ae2b2f1c-838f-4c16-8902-03893959a4a7",
+      "companyName": "ADFHGSDAGHGFA",
+      "contactName": "ASGFDSGASFDSD",
+      "email": "DFSAGFDASGFD",
+      "phone": "",
+      "createdAt": "2026-06-09T20:46:09.224Z"
+    },
+    {
+      "clientId": "932685df-a1d1-4f1b-a116-8f3f4e2a11d4",
+      "companyName": "fghg",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-09T20:46:50.716Z"
+    },
+    {
+      "clientId": "66797197-df5d-4040-a553-cff7fd617da7",
+      "companyName": "wqewr",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-09T20:47:54.800Z"
+    },
+    {
+      "clientId": "c73e92a1-2dc1-43eb-b311-8db5d8f225eb",
+      "companyName": "adsf",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-09T20:48:17.244Z"
+    },
+    {
+      "clientId": "1dba2c35-917d-4de7-9519-dfb51ce46478",
+      "companyName": "jhtra",
+      "contactName": "",
+      "email": "",
+      "phone": "",
+      "createdAt": "2026-06-09T20:48:53.619Z"
+    },
+    {
+      "clientId": "36eff12f-d7cf-4fc0-be3c-9241244afe84",
+      "companyName": "tester - 3 outputs",
+      "contactName": "dasfgs",
+      "email": "dsagfsfgfd",
+      "phone": "dsfgs",
+      "createdAt": "2026-06-10T21:57:10.852Z"
+    },
+    {
+      "clientId": "e8ef1597-a535-4530-9022-4baf449dc109",
+      "companyName": "tester v new 3 outputs invoices",
+      "contactName": "adsfg",
+      "email": "afdgfs",
+      "phone": "afdsg",
+      "createdAt": "2026-06-15T18:32:34.977Z"
+    }
+  ],
+  "invoices": [
+    {
+      "invoiceNumber": 15758,
+      "clientId": "a369b132-e5d2-4322-bbad-104c0fa7514b",
+      "dateString": "May 31, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "1 Colour (Black)",
+          "finishSize": "",
+          "foldedSize": "",
+          "bindery": "Cut to Size",
+          "remarks": "",
+          "printingPriceCents": 99900
+        }
+      ],
+      "preTaxCents": 99900,
+      "gstCents": 4995,
+      "pstCents": 6993,
+      "totalCents": 111888,
+      "depositCents": 0,
+      "balanceCents": 111888,
+      "status": "Active",
+      "createdAt": "2026-06-01T06:03:12.375Z"
+    },
+    {
+      "invoiceNumber": 15759,
+      "clientId": "0bf44fc9-6147-4953-a724-3946d083df6b",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "rsthvjhgf40",
+          "printingPriceCents": 5900
+        }
+      ],
+      "preTaxCents": 5900,
+      "gstCents": 295,
+      "pstCents": 413,
+      "totalCents": 6608,
+      "depositCents": 0,
+      "balanceCents": 6608,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:06:28.239Z"
+    },
+    {
+      "invoiceNumber": 15760,
+      "clientId": "a55057b7-1b45-4fa4-bed0-ba2bc54bc725",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:08:49.623Z"
+    },
+    {
+      "invoiceNumber": 15761,
+      "clientId": "197d29e0-d66a-4105-8ad5-0f66c475c39c",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 8000
+        }
+      ],
+      "preTaxCents": 8000,
+      "gstCents": 400,
+      "pstCents": 560,
+      "totalCents": 8960,
+      "depositCents": 0,
+      "balanceCents": 8960,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:11:32.076Z"
+    },
+    {
+      "invoiceNumber": 15762,
+      "clientId": "bec527e9-873e-4d07-89bf-6869eba2c17f",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 4000
+        }
+      ],
+      "preTaxCents": 4000,
+      "gstCents": 200,
+      "pstCents": 280,
+      "totalCents": 4480,
+      "depositCents": 0,
+      "balanceCents": 4480,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:15:34.769Z"
+    },
+    {
+      "invoiceNumber": 15763,
+      "clientId": "0bf44fc9-6147-4953-a724-3946d083df6b",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 10000
+        }
+      ],
+      "preTaxCents": 10000,
+      "gstCents": 500,
+      "pstCents": 700,
+      "totalCents": 11200,
+      "depositCents": 0,
+      "balanceCents": 11200,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:26:41.053Z"
+    },
+    {
+      "invoiceNumber": 15764,
+      "clientId": "0a064987-f6fd-4099-a61a-51ff14a0940f",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 100
+        }
+      ],
+      "preTaxCents": 100,
+      "gstCents": 5,
+      "pstCents": 7,
+      "totalCents": 112,
+      "depositCents": 0,
+      "balanceCents": 112,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:28:39.710Z"
+    },
+    {
+      "invoiceNumber": 15765,
+      "clientId": "a11a3add-888c-4ccd-8aa9-f55fd0f66c0a",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 200
+        }
+      ],
+      "preTaxCents": 200,
+      "gstCents": 10,
+      "pstCents": 14,
+      "totalCents": 224,
+      "depositCents": 0,
+      "balanceCents": 224,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:29:54.753Z"
+    },
+    {
+      "invoiceNumber": 15766,
+      "clientId": "3a0cb8af-0162-4913-9920-0702d32e9091",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 400
+        }
+      ],
+      "preTaxCents": 400,
+      "gstCents": 20,
+      "pstCents": 28,
+      "totalCents": 448,
+      "depositCents": 0,
+      "balanceCents": 448,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:35:19.457Z"
+    },
+    {
+      "invoiceNumber": 15767,
+      "clientId": "0140838a-9510-4b76-adae-72ededcc3a68",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 500
+        }
+      ],
+      "preTaxCents": 500,
+      "gstCents": 25,
+      "pstCents": 35,
+      "totalCents": 560,
+      "depositCents": 0,
+      "balanceCents": 560,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:37:59.944Z"
+    },
+    {
+      "invoiceNumber": 15768,
+      "clientId": "1098a003-f856-4f2f-99f0-1376c024eb0e",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 600
+        }
+      ],
+      "preTaxCents": 600,
+      "gstCents": 30,
+      "pstCents": 42,
+      "totalCents": 672,
+      "depositCents": 0,
+      "balanceCents": 672,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:39:32.990Z"
+    },
+    {
+      "invoiceNumber": 15769,
+      "clientId": "d48d4d29-8838-43f6-9217-61a1e1729090",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 700
+        }
+      ],
+      "preTaxCents": 700,
+      "gstCents": 35,
+      "pstCents": 49,
+      "totalCents": 784,
+      "depositCents": 0,
+      "balanceCents": 784,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:40:16.919Z"
+    },
+    {
+      "invoiceNumber": 15770,
+      "clientId": "ec324939-8bac-4a9e-8712-14a42a962021",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 800
+        }
+      ],
+      "preTaxCents": 800,
+      "gstCents": 40,
+      "pstCents": 56,
+      "totalCents": 896,
+      "depositCents": 0,
+      "balanceCents": 896,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:48:15.883Z"
+    },
+    {
+      "invoiceNumber": 15771,
+      "clientId": "11515b92-bb8a-499e-963b-9942e8354859",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 900
+        }
+      ],
+      "preTaxCents": 900,
+      "gstCents": 45,
+      "pstCents": 63,
+      "totalCents": 1008,
+      "depositCents": 0,
+      "balanceCents": 1008,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:51:35.678Z"
+    },
+    {
+      "invoiceNumber": 15772,
+      "clientId": "8c3febf8-aa51-4286-83d8-4e9024656190",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 1000
+        }
+      ],
+      "preTaxCents": 1000,
+      "gstCents": 50,
+      "pstCents": 70,
+      "totalCents": 1120,
+      "depositCents": 0,
+      "balanceCents": 1120,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:56:22.293Z"
+    },
+    {
+      "invoiceNumber": 15773,
+      "clientId": "04d4cbbe-b9f9-4d44-9a4d-e17fdcf53bc3",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 1100
+        }
+      ],
+      "preTaxCents": 1100,
+      "gstCents": 55,
+      "pstCents": 77,
+      "totalCents": 1232,
+      "depositCents": 0,
+      "balanceCents": 1232,
+      "status": "Active",
+      "createdAt": "2026-06-03T07:58:18.487Z"
+    },
+    {
+      "invoiceNumber": 15774,
+      "clientId": "c8e38bfb-ab56-46c0-b807-f0196b2337f0",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 1200
+        }
+      ],
+      "preTaxCents": 1200,
+      "gstCents": 60,
+      "pstCents": 84,
+      "totalCents": 1344,
+      "depositCents": 0,
+      "balanceCents": 1344,
+      "status": "Active",
+      "createdAt": "2026-06-03T08:05:32.971Z"
+    },
+    {
+      "invoiceNumber": 15775,
+      "clientId": "7e8b7454-01b2-4ae1-ba94-58afd55caf70",
+      "dateString": "June 3, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 9000
+        }
+      ],
+      "preTaxCents": 9000,
+      "gstCents": 450,
+      "pstCents": 630,
+      "totalCents": 10080,
+      "depositCents": 0,
+      "balanceCents": 10080,
+      "status": "Active",
+      "createdAt": "2026-06-04T00:13:26.306Z"
+    },
+    {
+      "invoiceNumber": 15776,
+      "clientId": "a369b132-e5d2-4322-bbad-104c0fa7514b",
+      "dateString": "June 5, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 8000
+        }
+      ],
+      "preTaxCents": 8000,
+      "gstCents": 400,
+      "pstCents": 560,
+      "totalCents": 8960,
+      "depositCents": 0,
+      "balanceCents": 8960,
+      "status": "Active",
+      "createdAt": "2026-06-05T19:47:47.980Z"
+    },
+    {
+      "invoiceNumber": 15777,
+      "clientId": "51361e04-b723-4e32-a7eb-9d539acc5147",
+      "dateString": "June 6, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 40,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "aergewrhereqa",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-06T23:46:12.190Z"
+    },
+    {
+      "invoiceNumber": 15778,
+      "clientId": "11acc0b5-cc93-42e1-a24a-4dee6735fc8b",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 1000,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "1 Colour (PMS)",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "Cut to Size",
+          "remarks": "ertyfjwyrttestr",
+          "printingPriceCents": 8000
+        }
+      ],
+      "preTaxCents": 8000,
+      "gstCents": 400,
+      "pstCents": 560,
+      "totalCents": 8960,
+      "depositCents": 0,
+      "balanceCents": 8960,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:33:00.758Z"
+    },
+    {
+      "invoiceNumber": 15779,
+      "clientId": "9337c3ed-c53f-4d04-96f0-ff17ab9025cc",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "60lb Text",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "afashdshahzgzgfgn",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:35:37.935Z"
+    },
+    {
+      "invoiceNumber": 15780,
+      "clientId": "11acc0b5-cc93-42e1-a24a-4dee6735fc8b",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 190,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "Cut to Size",
+          "remarks": "AFGDSAFDGFDSFGFD",
+          "printingPriceCents": 9000
+        }
+      ],
+      "preTaxCents": 9000,
+      "gstCents": 450,
+      "pstCents": 630,
+      "totalCents": 10080,
+      "depositCents": 0,
+      "balanceCents": 10080,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:44:03.504Z"
+    },
+    {
+      "invoiceNumber": 15781,
+      "clientId": "ae2b2f1c-838f-4c16-8902-03893959a4a7",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "FSDDGAFASSSSSSSSSSSSSSSSSSSSSSSS",
+          "printingPriceCents": 547800
+        }
+      ],
+      "preTaxCents": 547800,
+      "gstCents": 27390,
+      "pstCents": 38346,
+      "totalCents": 613536,
+      "depositCents": 0,
+      "balanceCents": 613536,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:46:09.225Z"
+    },
+    {
+      "invoiceNumber": 15782,
+      "clientId": "932685df-a1d1-4f1b-a116-8f3f4e2a11d4",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:46:50.716Z"
+    },
+    {
+      "invoiceNumber": 15783,
+      "clientId": "66797197-df5d-4040-a553-cff7fd617da7",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 7900
+        }
+      ],
+      "preTaxCents": 7900,
+      "gstCents": 395,
+      "pstCents": 553,
+      "totalCents": 8848,
+      "depositCents": 0,
+      "balanceCents": 8848,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:47:54.801Z"
+    },
+    {
+      "invoiceNumber": 15784,
+      "clientId": "c73e92a1-2dc1-43eb-b311-8db5d8f225eb",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 2400
+        }
+      ],
+      "preTaxCents": 2400,
+      "gstCents": 120,
+      "pstCents": 168,
+      "totalCents": 2688,
+      "depositCents": 0,
+      "balanceCents": 2688,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:48:17.245Z"
+    },
+    {
+      "invoiceNumber": 15785,
+      "clientId": "1dba2c35-917d-4de7-9519-dfb51ce46478",
+      "dateString": "June 9, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 0,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "",
+          "remarks": "",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-09T20:48:53.620Z"
+    },
+    {
+      "invoiceNumber": 15786,
+      "clientId": "36eff12f-d7cf-4fc0-be3c-9241244afe84",
+      "dateString": "June 10, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 1000,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "8.5x11",
+          "bindery": "Cut to Size",
+          "remarks": "",
+          "printingPriceCents": 7000
+        }
+      ],
+      "preTaxCents": 7000,
+      "gstCents": 350,
+      "pstCents": 490,
+      "totalCents": 7840,
+      "depositCents": 0,
+      "balanceCents": 7840,
+      "status": "Active",
+      "createdAt": "2026-06-10T21:57:10.852Z"
+    },
+    {
+      "invoiceNumber": 15787,
+      "clientId": "e8ef1597-a535-4530-9022-4baf449dc109",
+      "dateString": "June 15, 2026",
+      "terms": "Net 30 Days",
+      "jobs": [
+        {
+          "jobIndex": 1,
+          "paperType": "20lb Bond",
+          "qtyPerItemSheet": 100,
+          "noOfItemsSheet": 0,
+          "inkColoursSide1": "1 Colour (Black)",
+          "inkColoursSide2": "",
+          "finishSize": "8.5x11",
+          "foldedSize": "",
+          "bindery": "Score & Fold",
+          "remarks": "",
+          "printingPriceCents": 8000
+        }
+      ],
+      "preTaxCents": 8000,
+      "gstCents": 400,
+      "pstCents": 560,
+      "totalCents": 8960,
+      "depositCents": 0,
+      "balanceCents": 8960,
+      "status": "Active",
+      "createdAt": "2026-06-15T18:32:34.977Z"
+    }
+  ]
+}
